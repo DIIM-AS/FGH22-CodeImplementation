@@ -13,3 +13,5 @@ Program javascript untuk menentukan total harga berdasarkan jumlah dari harga on
 - task4.js
 Program javascript yang berfungsi untuk mengurutkan sekumpulan data integer yang dipisahkan berdasarkan angka "0" dan diurutkan dari angka terkecil hingga terbesar menggunakan beberapa method.
 
+## authors
+- [Dimas S](https://github.com/DIIM-AS)
